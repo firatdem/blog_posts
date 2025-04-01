@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0884ad35-8e85-4570-a6ba-6215be05d5bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blog_posts/_posts/2025-04-01-title.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_posts/_posts/2025-04-01-First_Post.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_posts/_posts/2025-04-01-title.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,13 +115,22 @@
       <option name="project" value="LOCAL" />
       <updated>1743537207855</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Step 4, first blog post">
+      <option name="closed" value="true" />
+      <created>1743539054273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743539054273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configured _config.yml using the theme: minima" />
     <MESSAGE value="Step 3, git hub page tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step 3, git hub page tutorial" />
+    <MESSAGE value="Step 4, first blog post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step 4, first blog post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
