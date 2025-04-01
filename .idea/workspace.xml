@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0884ad35-8e85-4570-a6ba-6215be05d5bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/blog_posts/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog_posts/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_posts/_posts/2025-04-01-title.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/blog_posts" value="main" />
+        <entry key="$PROJECT_DIR$/blog_posts" value="my-pages" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog_posts" />
@@ -45,7 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "my-pages",
+    "git-widget-placeholder": "#2 on my-pages",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
@@ -105,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743536981477</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Step 3, git hub page tutorial">
+      <option name="closed" value="true" />
+      <created>1743537207855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743537207855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
